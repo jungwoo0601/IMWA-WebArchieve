@@ -77,8 +77,8 @@ https://github.com/user-attachments/assets/3d50d85b-ff9e-448e-8d5d-54d64cc00aea
 
 ## 회고
 
-박정우 : https://www.notion.so/1c073873401a8075b351d8b6ca3d447d
-황수곤 : https://www.notion.so/1c073873401a80888c17fb01aaec3bf2
-장유하 : https://www.notion.so/1c073873401a80e896bef23ac5d1c81f
-김혜민 : https://www.notion.so/1bf73873401a80499b6cc21943801965
+박정우 : https://www.notion.so/1c073873401a8075b351d8b6ca3d447d <br>
+황수곤 : https://www.notion.so/1c073873401a80888c17fb01aaec3bf2 <br>
+장유하 : https://www.notion.so/1c073873401a80e896bef23ac5d1c81f <br>
+김혜민 : https://www.notion.so/1bf73873401a80499b6cc21943801965 <br>
 
