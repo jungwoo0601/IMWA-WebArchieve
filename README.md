@@ -8,11 +8,15 @@
 
 이 프로젝트를 고안하게 되었고 실제 프로젝트 기간동안 다양한 일상들을 기록(Archive)하여 꾸며보았습니다.
 
+https://github.com/user-attachments/assets/3d50d85b-ff9e-448e-8d5d-54d64cc00aea
+
+
+
 ## 팀원 소개
 
 |                   황수곤                    |                    박정우                     |                 장유하                  |                   김혜민                    |
 | :-----------------------------------------: | :-------------------------------------------: | :-------------------------------------: | :-----------------------------------------: |
-|              팀장,스크럼마스터              |                     팀원                      |                  팀원                   |                    팀원                     |
+|              Reference 페이지 및 PM              |                     인트로페이지, AboutMe 페이지, Header, footer                   |                  메인페이지 각 메뉴별 디자인, 카드 제작                  |                    Gallery 페이지                     |
 | [sugonhwang](https://github.com/sugonhwang) | [jungwoo0601](https://github.com/jungwoo0601) |    [yuha2](https://github.com/yuha2)    |   [minixzip](https://github.com/minixzip)   |
 |  ![](/src/assets/aboutme/sugon/sugon2.svg)  | ![](/src/assets/aboutme/jungwoo/jungwoo2.svg) | ![](/src/assets/aboutme/yuha/yuha2.svg) | ![](/src/assets/aboutme/haemin/haemin2.svg) |
 
@@ -70,3 +74,11 @@
 - HTML 클래스 네이밍: 케밥 표기법 ex)`class="button-component"`
 - HTML id 속성 지양하고 가급적 Class를 사용합니다.
 - 모든 개발은 **컴포넌트 방식**으로 진행합니다.
+
+## 회고
+
+박정우 : https://www.notion.so/1c073873401a8075b351d8b6ca3d447d
+황수곤 : https://www.notion.so/1c073873401a80888c17fb01aaec3bf2
+장유하 : https://www.notion.so/1c073873401a80e896bef23ac5d1c81f
+김혜민 : https://www.notion.so/1bf73873401a80499b6cc21943801965
+
